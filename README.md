@@ -6,4 +6,7 @@
 - Google template,no router, but just 3 html files,
 - and easy start to play with dropp-paylods, redirect
 - or wathewer by edit erro.html, or final.html.
-- If no code skills GPT will help with thath. 
+- If no code skills GPT will help with thath.
+
+
+ ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kaliscandinavia/airgeddon-portales-Asus-Cisco-D-Link-Zyxel-and-Google-in-english.visitor-badge&left_text=Besøkend)
