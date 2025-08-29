@@ -1,5 +1,5 @@
 # Asus-Cisco-D-Link-Zyxel-and-Google is well known,
-- but not in english at airgeddon/customportlals, yet [27-08-2025].
+- but not in english at airgeddon/customportals, yet [27-08-2025].
 - Git clone and add to airgeddon custom portals if needed.
 - This templates is availeble until present in
 -  https://github.com/xpz3/airgeddonplugins
