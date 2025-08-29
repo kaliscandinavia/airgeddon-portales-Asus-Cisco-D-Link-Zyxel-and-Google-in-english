@@ -5,7 +5,7 @@
 -  https://github.com/xpz3/airgeddonplugins
 - Google template,no router, but just 3 html files,
 - and easy start to play with dropp-paylods, redirect
-- or wathewer by edit erro.html, or final.html.
+- or wathewer by edit error.html, or final.html.
 - If no code skills GPT will help with thath.
 
 
